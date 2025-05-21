@@ -15,3 +15,23 @@
 1. Clone or download the extension:
    ```bash
    git clone https://github.com/YOUR_USERNAME/cleanview-json.git
+
+2. Go to chrome://extensions/
+
+3. Enable Developer mode
+
+4. Click “Load unpacked”
+
+5. Select the extension folder
+
+6. Open Chrome and navigate to: chrome://extensions/
+
+7. Enable Developer mode (top right)
+
+8. Click “Load unpacked”
+
+9. Select the folder containing the extension (where manifest.json lives)
+
+10. Make sure the extension is enabled
+   Navigate to any URL that returns raw JSON (e.g., a REST API)  
+       → CleanView JSON should auto-format and display it beautifully
