@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
-  "name": "Pretty JSON Viewer",
+  "name": "CleanView JSON",
   "description": "Displays JSON responses in a pretty, Prettier-like style.",
   "version": "2.0",
   "permissions": ["activeTab", "scripting"],
   "host_permissions": ["<all_urls>"],
   "action": {
-    "default_title": "Prettify JSON",
+    "default_title": "CleanView JSON",
     "default_icon": "icon_16x16.png"
   },
   "background": {
